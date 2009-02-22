@@ -1,0 +1,265 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9ACB8B710F51EAB400CCE9F4 /* GolfapNews */;
+		activeTarget = 9ACB8B840F51EAD900CCE9F4 /* test */;
+		addToTargets = (
+			9ACB8B840F51EAD900CCE9F4 /* test */,
+		);
+		codeSenseManager = 9ACB8B7E0F51EAC400CCE9F4 /* Code sense */;
+		executables = (
+			9ACB8B710F51EAB400CCE9F4 /* GolfapNews */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					447,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					637,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					613,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					679,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257027172;
+			PBXWorkspaceStateSaveDate = 257027172;
+		};
+		perUserProjectItems = {
+			9ACB8B760F51EAC400CCE9F4 = 9ACB8B760F51EAC400CCE9F4 /* PBXTextBookmark */;
+			9ACB8B780F51EAC400CCE9F4 = 9ACB8B780F51EAC400CCE9F4 /* PBXTextBookmark */;
+			9ACB8B970F51EBCB00CCE9F4 = 9ACB8B970F51EBCB00CCE9F4 /* PBXTextBookmark */;
+			9ACB8B990F51EBCB00CCE9F4 = 9ACB8B990F51EBCB00CCE9F4 /* PBXTextBookmark */;
+			9ACB8B9D0F51EC4C00CCE9F4 = 9ACB8B9D0F51EC4C00CCE9F4 /* PBXTextBookmark */;
+			9ACB8B9E0F51EC4C00CCE9F4 = 9ACB8B9E0F51EC4C00CCE9F4 /* PBXTextBookmark */;
+			9ACB8B9F0F51EC4C00CCE9F4 = 9ACB8B9F0F51EC4C00CCE9F4 /* PBXTextBookmark */;
+			9ACB8BA00F51EC4C00CCE9F4 = 9ACB8BA00F51EC4C00CCE9F4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9ACB8B7D0F51EAC400CCE9F4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* GolfapNews.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 696}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* GolfapNews */ = {
+		activeExec = 0;
+		executables = (
+			9ACB8B710F51EAB400CCE9F4 /* GolfapNews */,
+		);
+	};
+	9ACB8B710F51EAB400CCE9F4 /* GolfapNews */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GolfapNews;
+		sourceDirectories = (
+		);
+	};
+	9ACB8B760F51EAC400CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
+		name = "GolfapNews.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9ACB8B780F51EAC400CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
+		name = "GolfapNews.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9ACB8B7D0F51EAC400CCE9F4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	9ACB8B7E0F51EAC400CCE9F4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9ACB8B840F51EAD900CCE9F4 /* test */ = {
+		activeExec = 0;
+	};
+	9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{0, 285}";
+		};
+	};
+	9ACB8B970F51EBCB00CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* GolfapNews.1 */;
+		name = "GolfapNews.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2478;
+		vrLoc = 0;
+	};
+	9ACB8B990F51EBCB00CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* GolfapNews.1 */;
+		name = "GolfapNews.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2478;
+		vrLoc = 0;
+	};
+	9ACB8B9D0F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
+		name = "SyntaxTest.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9ACB8B9E0F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		name = "SyntaxTest.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	9ACB8B9F0F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
+		name = "SyntaxTest.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9ACB8BA00F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		name = "SyntaxTest.m: 15";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 222;
+		vrLoc = 0;
+	};
+	C6859EA3029092ED04C91782 /* GolfapNews.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {897, 1050}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2478}";
+		};
+	};
+}
