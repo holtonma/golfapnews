@@ -7,6 +7,9 @@
 		addToTargets = (
 			9ACB8B840F51EAD900CCE9F4 /* test */,
 		);
+		breakpoints = (
+			9AEC8E650F51F093006BE622 /* SyntaxTest.h:12 */,
+		);
 		codeSenseManager = 9ACB8B7E0F51EAC400CCE9F4 /* Code sense */;
 		executables = (
 			9ACB8B710F51EAB400CCE9F4 /* GolfapNews */,
@@ -94,18 +97,34 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 257027172;
-			PBXWorkspaceStateSaveDate = 257027172;
+			PBXPerProjectTemplateStateSaveDate = 257029204;
+			PBXWorkspaceStateSaveDate = 257029204;
 		};
 		perUserProjectItems = {
-			9ACB8B760F51EAC400CCE9F4 = 9ACB8B760F51EAC400CCE9F4 /* PBXTextBookmark */;
 			9ACB8B780F51EAC400CCE9F4 = 9ACB8B780F51EAC400CCE9F4 /* PBXTextBookmark */;
 			9ACB8B970F51EBCB00CCE9F4 = 9ACB8B970F51EBCB00CCE9F4 /* PBXTextBookmark */;
 			9ACB8B990F51EBCB00CCE9F4 = 9ACB8B990F51EBCB00CCE9F4 /* PBXTextBookmark */;
-			9ACB8B9D0F51EC4C00CCE9F4 = 9ACB8B9D0F51EC4C00CCE9F4 /* PBXTextBookmark */;
-			9ACB8B9E0F51EC4C00CCE9F4 = 9ACB8B9E0F51EC4C00CCE9F4 /* PBXTextBookmark */;
 			9ACB8B9F0F51EC4C00CCE9F4 = 9ACB8B9F0F51EC4C00CCE9F4 /* PBXTextBookmark */;
-			9ACB8BA00F51EC4C00CCE9F4 = 9ACB8BA00F51EC4C00CCE9F4 /* PBXTextBookmark */;
+			9AEC8E660F51F0A0006BE622 = 9AEC8E660F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E680F51F0A0006BE622 = 9AEC8E680F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E690F51F0A0006BE622 = 9AEC8E690F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E6B0F51F0A0006BE622 = 9AEC8E6B0F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E6E0F51F0A0006BE622 = 9AEC8E6E0F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E6F0F51F0A0006BE622 = 9AEC8E6F0F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E710F51F0A0006BE622 = 9AEC8E710F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E720F51F0A0006BE622 = 9AEC8E720F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E730F51F0A0006BE622 = 9AEC8E730F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E740F51F0A0006BE622 = 9AEC8E740F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E750F51F0A0006BE622 = 9AEC8E750F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E760F51F0A0006BE622 = 9AEC8E760F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E770F51F0A0006BE622 = 9AEC8E770F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E780F51F0A0006BE622 = 9AEC8E780F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E7A0F51F0A0006BE622 = 9AEC8E7A0F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E7B0F51F0A0006BE622 = 9AEC8E7B0F51F0A0006BE622 /* PBXTextBookmark */;
+			9AEC8E840F51F20D006BE622 = 9AEC8E840F51F20D006BE622 /* PBXTextBookmark */;
+			9AEC8E850F51F20D006BE622 = 9AEC8E850F51F20D006BE622 /* PBXTextBookmark */;
+			9AEC8E930F51F3BB006BE622 = 9AEC8E930F51F3BB006BE622 /* PBXTextBookmark */;
+			9AEC8E9D0F51F41B006BE622 = 9AEC8E9D0F51F41B006BE622 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9ACB8B7D0F51EAC400CCE9F4 /* Source Control */;
 		userBuildSettings = {
@@ -113,9 +132,16 @@
 	};
 	08FB7796FE84155DC02AAC07 /* GolfapNews.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {726, 696}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
+			sepNavSelRange = "{233, 0}";
 			sepNavVisRange = "{0, 234}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* GolfapNews_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
+			sepNavSelRange = "{162, 0}";
+			sepNavVisRange = "{0, 162}";
 		};
 	};
 	8DD76F960486AA7600D96B5E /* GolfapNews */ = {
@@ -147,16 +173,6 @@
 		sourceDirectories = (
 		);
 	};
-	9ACB8B760F51EAC400CCE9F4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
-		name = "GolfapNews.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 234;
-		vrLoc = 0;
-	};
 	9ACB8B780F51EAC400CCE9F4 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
@@ -184,15 +200,15 @@
 	9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 234}";
+			sepNavSelRange = "{225, 0}";
+			sepNavVisRange = "{0, 235}";
 		};
 	};
 	9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
-			sepNavSelRange = "{236, 0}";
-			sepNavVisRange = "{0, 285}";
+			sepNavSelRange = "{942, 0}";
+			sepNavVisRange = "{0, 954}";
 		};
 	};
 	9ACB8B970F51EBCB00CCE9F4 /* PBXTextBookmark */ = {
@@ -215,26 +231,6 @@
 		vrLen = 2478;
 		vrLoc = 0;
 	};
-	9ACB8B9D0F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
-		name = "SyntaxTest.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 234;
-		vrLoc = 0;
-	};
-	9ACB8B9E0F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
-		name = "SyntaxTest.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 203;
-		vrLoc = 0;
-	};
 	9ACB8B9F0F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
@@ -245,14 +241,245 @@
 		vrLen = 234;
 		vrLoc = 0;
 	};
-	9ACB8BA00F51EC4C00CCE9F4 /* PBXTextBookmark */ = {
+	9AEC8E650F51F093006BE622 /* SyntaxTest.h:12 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 12;
+		modificationTime = 257028247.223438;
+		state = 2;
+	};
+	9AEC8E660F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9AEC8E670F51F0A0006BE622 /* SenTestCase.h */;
+		name = "SenTestCase.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2886;
+		vrLoc = 0;
+	};
+	9AEC8E670F51F0A0006BE622 /* SenTestCase.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SenTestCase.h;
+		path = /Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h;
+		sourceTree = "<absolute>";
+	};
+	9AEC8E680F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* GolfapNews_Prefix.pch */;
+		name = "GolfapNews_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 162;
+		vrLoc = 0;
+	};
+	9AEC8E690F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9AEC8E6A0F51F0A0006BE622 /* NSString.h */;
+		name = "NSString.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2796;
+		vrLoc = 0;
+	};
+	9AEC8E6A0F51F0A0006BE622 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	9AEC8E6B0F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
+		name = "GolfapNews.m: 10";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9AEC8E6E0F51F0A0006BE622 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
-		name = "SyntaxTest.m: 15";
+		name = "SyntaxTest.m: 17";
 		rLen = 0;
-		rLoc = 279;
+		rLoc = 947;
 		rType = 0;
-		vrLen = 222;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	9AEC8E6F0F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9AEC8E700F51F0A0006BE622 /* SenTestCase.h */;
+		name = "SenTestCase.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2886;
+		vrLoc = 0;
+	};
+	9AEC8E700F51F0A0006BE622 /* SenTestCase.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SenTestCase.h;
+		path = /Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h;
+		sourceTree = "<absolute>";
+	};
+	9AEC8E710F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		name = "SyntaxTest.m: 16";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	9AEC8E720F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
+		name = "SyntaxTest.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9AEC8E730F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		name = "SyntaxTest.m: 16";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	9AEC8E740F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
+		name = "GolfapNews.m: 10";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9AEC8E750F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* GolfapNews_Prefix.pch */;
+		name = "GolfapNews_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 162;
+		vrLoc = 0;
+	};
+	9AEC8E760F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		name = "SyntaxTest.m: 16";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	9AEC8E770F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
+		name = "GolfapNews.m: 10";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9AEC8E780F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9AEC8E790F51F0A0006BE622 /* NSString.h */;
+		name = "NSString.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2796;
+		vrLoc = 0;
+	};
+	9AEC8E790F51F0A0006BE622 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	9AEC8E7A0F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */;
+		name = "GolfapNews.m: 10";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	9AEC8E7B0F51F0A0006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		name = "SyntaxTest.m: 16";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 285;
+		vrLoc = 0;
+	};
+	9AEC8E840F51F20D006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
+		name = "SyntaxTest.h: 13";
+		rLen = 0;
+		rLoc = 225;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	9AEC8E850F51F20D006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */;
+		name = "SyntaxTest.h: 13";
+		rLen = 0;
+		rLoc = 225;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	9AEC8E930F51F3BB006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "warning: implicit declaration of function 'STAssertEqual'";
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		rLen = 1;
+		rLoc = 29;
+		rType = 1;
+	};
+	9AEC8E9D0F51F41B006BE622 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
+		name = "SyntaxTest.m: 38";
+		rLen = 0;
+		rLoc = 942;
+		rType = 0;
+		vrLen = 954;
 		vrLoc = 0;
 	};
 	C6859EA3029092ED04C91782 /* GolfapNews.1 */ = {
