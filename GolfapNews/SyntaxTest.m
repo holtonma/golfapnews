@@ -38,6 +38,23 @@
   [myString release];
   [myDictionary release];
 }
+
+- (void) testDictionary
+{
+  NSDictionary * myDictionary = 
+    [NSDictionary dictionaryWithObjectsAndKeys:@"my value", @"my key",
+                                               @"Fox Tall", @"Narrator",
+                                               nil
+                                              ];
+  STAssertEqualObjects([myDictionary objectForKey:@"Narrator"], @"Fox Tall", nil);
+  
+  int i = 0;
+  for (id key in myDictionary) {
+    //[myDictionary objectForKey:key];
+    i++;
+  }
+  STAssertEquals(i, 2, nil);
+}
     
 
 @end

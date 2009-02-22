@@ -10,6 +10,9 @@
 		8DD76F9A0486AA7600D96B5E /* GolfapNews.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* GolfapNews.m */; settings = {ATTRIBUTES = (); }; };
 		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
 		8DD76F9F0486AA7600D96B5E /* GolfapNews.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859EA3029092ED04C91782 /* GolfapNews.1 */; };
+		9A2984410F51F6B6005A9F1E /* GolfapProductTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */; };
+		9A2984450F51F762005A9F1E /* GAProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984440F51F762005A9F1E /* GAProduct.m */; };
+		9A2984460F51F762005A9F1E /* GAProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984440F51F762005A9F1E /* GAProduct.m */; };
 		9ACB8B8D0F51EB5900CCE9F4 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9ACB8B8C0F51EB5900CCE9F4 /* SenTestingKit.framework */; };
 		9ACB8B950F51EB9A00CCE9F4 /* SyntaxTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */; };
 /* End PBXBuildFile section */
@@ -32,6 +35,9 @@
 		08FB779EFE84155DC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32A70AAB03705E1F00C91783 /* GolfapNews_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GolfapNews_Prefix.pch; sourceTree = "<group>"; };
 		8DD76FA10486AA7600D96B5E /* GolfapNews */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GolfapNews; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GolfapProductTest.m; sourceTree = "<group>"; };
+		9A2984430F51F762005A9F1E /* GAProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAProduct.h; sourceTree = "<group>"; };
+		9A2984440F51F762005A9F1E /* GAProduct.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GAProduct.m; sourceTree = "<group>"; };
 		9ACB8B850F51EAD900CCE9F4 /* test.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ACB8B860F51EAD900CCE9F4 /* test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test-Info.plist"; sourceTree = "<group>"; };
 		9ACB8B8C0F51EB5900CCE9F4 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
@@ -78,6 +84,8 @@
 			children = (
 				32A70AAB03705E1F00C91783 /* GolfapNews_Prefix.pch */,
 				08FB7796FE84155DC02AAC07 /* GolfapNews.m */,
+				9A2984430F51F762005A9F1E /* GAProduct.h */,
+				9A2984440F51F762005A9F1E /* GAProduct.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -105,6 +113,7 @@
 			children = (
 				9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */,
 				9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */,
+				9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */,
 			);
 			name = test;
 			sourceTree = "<group>";
@@ -206,6 +215,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DD76F9A0486AA7600D96B5E /* GolfapNews.m in Sources */,
+				9A2984460F51F762005A9F1E /* GAProduct.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,6 +224,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ACB8B950F51EB9A00CCE9F4 /* SyntaxTest.m in Sources */,
+				9A2984410F51F6B6005A9F1E /* GolfapProductTest.m in Sources */,
+				9A2984450F51F762005A9F1E /* GAProduct.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

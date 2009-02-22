@@ -6,6 +6,7 @@
 		activeTarget = 9ACB8B840F51EAD900CCE9F4 /* test */;
 		addToTargets = (
 			9ACB8B840F51EAD900CCE9F4 /* test */,
+			8DD76F960486AA7600D96B5E /* GolfapNews */,
 		);
 		breakpoints = (
 			9AEC8E650F51F093006BE622 /* SyntaxTest.h:12 */,
@@ -150,6 +151,13 @@
 			9ACB8B710F51EAB400CCE9F4 /* GolfapNews */,
 		);
 	};
+	9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
+			sepNavSelRange = "{192, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
 	9ACB8B710F51EAB400CCE9F4 /* GolfapNews */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -206,9 +214,9 @@
 	};
 	9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
-			sepNavSelRange = "{942, 0}";
-			sepNavVisRange = "{0, 954}";
+			sepNavIntBoundsRect = "{{0, 0}, {815, 854}}";
+			sepNavSelRange = "{965, 0}";
+			sepNavVisRange = "{0, 1458}";
 		};
 	};
 	9ACB8B970F51EBCB00CCE9F4 /* PBXTextBookmark */ = {
@@ -315,7 +323,7 @@
 		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
 		name = "SyntaxTest.m: 17";
 		rLen = 0;
-		rLoc = 947;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 285;
 		vrLoc = 0;
@@ -477,7 +485,7 @@
 		fRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */;
 		name = "SyntaxTest.m: 38";
 		rLen = 0;
-		rLoc = 942;
+		rLoc = 1452;
 		rType = 0;
 		vrLen = 954;
 		vrLoc = 0;
