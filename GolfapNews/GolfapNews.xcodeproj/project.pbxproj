@@ -13,6 +13,9 @@
 		9A2984410F51F6B6005A9F1E /* GolfapProductTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */; };
 		9A2984450F51F762005A9F1E /* GAProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984440F51F762005A9F1E /* GAProduct.m */; };
 		9A2984460F51F762005A9F1E /* GAProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984440F51F762005A9F1E /* GAProduct.m */; };
+		9A2984820F520274005A9F1E /* GAProductList.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984810F520274005A9F1E /* GAProductList.m */; };
+		9A2984830F520274005A9F1E /* GAProductList.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984810F520274005A9F1E /* GAProductList.m */; };
+		9A2984850F520290005A9F1E /* GAProductListTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A2984840F520290005A9F1E /* GAProductListTest.m */; };
 		9ACB8B8D0F51EB5900CCE9F4 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9ACB8B8C0F51EB5900CCE9F4 /* SenTestingKit.framework */; };
 		9ACB8B950F51EB9A00CCE9F4 /* SyntaxTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */; };
 /* End PBXBuildFile section */
@@ -38,6 +41,9 @@
 		9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GolfapProductTest.m; sourceTree = "<group>"; };
 		9A2984430F51F762005A9F1E /* GAProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAProduct.h; sourceTree = "<group>"; };
 		9A2984440F51F762005A9F1E /* GAProduct.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GAProduct.m; sourceTree = "<group>"; };
+		9A2984800F520274005A9F1E /* GAProductList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAProductList.h; sourceTree = "<group>"; };
+		9A2984810F520274005A9F1E /* GAProductList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GAProductList.m; sourceTree = "<group>"; };
+		9A2984840F520290005A9F1E /* GAProductListTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GAProductListTest.m; sourceTree = "<group>"; };
 		9ACB8B850F51EAD900CCE9F4 /* test.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ACB8B860F51EAD900CCE9F4 /* test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test-Info.plist"; sourceTree = "<group>"; };
 		9ACB8B8C0F51EB5900CCE9F4 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
@@ -86,6 +92,8 @@
 				08FB7796FE84155DC02AAC07 /* GolfapNews.m */,
 				9A2984430F51F762005A9F1E /* GAProduct.h */,
 				9A2984440F51F762005A9F1E /* GAProduct.m */,
+				9A2984800F520274005A9F1E /* GAProductList.h */,
+				9A2984810F520274005A9F1E /* GAProductList.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -114,6 +122,7 @@
 				9ACB8B930F51EB9A00CCE9F4 /* SyntaxTest.h */,
 				9ACB8B940F51EB9A00CCE9F4 /* SyntaxTest.m */,
 				9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */,
+				9A2984840F520290005A9F1E /* GAProductListTest.m */,
 			);
 			name = test;
 			sourceTree = "<group>";
@@ -216,6 +225,7 @@
 			files = (
 				8DD76F9A0486AA7600D96B5E /* GolfapNews.m in Sources */,
 				9A2984460F51F762005A9F1E /* GAProduct.m in Sources */,
+				9A2984830F520274005A9F1E /* GAProductList.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -226,6 +236,8 @@
 				9ACB8B950F51EB9A00CCE9F4 /* SyntaxTest.m in Sources */,
 				9A2984410F51F6B6005A9F1E /* GolfapProductTest.m in Sources */,
 				9A2984450F51F762005A9F1E /* GAProduct.m in Sources */,
+				9A2984820F520274005A9F1E /* GAProductList.m in Sources */,
+				9A2984850F520290005A9F1E /* GAProductListTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

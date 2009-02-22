@@ -37,7 +37,15 @@
 - (void) testAttributes
 {
   STAssertEqualObjects(product.title, @"Haml and Sass", nil);
+  STAssertEqualObjects(product.url.relativePath, @"/products/haml-and-sass", nil);
 }
+
+- (void) testUrl
+{
+  NSURL * url = [NSURL URLWithString:@"http://peepcode.com/products/haml-and-sass"];
+  STAssertEqualObjects([url relativePath], @"/products/haml-and-sass", nil);
+}
+
 
 - (void) tearDown
 {

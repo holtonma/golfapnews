@@ -11,11 +11,14 @@
 
 @interface GAProduct : NSObject {
   NSString * title;
+  NSURL * url;
 }
 
 - (id) initWithDictionary:(NSDictionary *) theDictionary;
 
 @property (nonatomic, retain) NSString * title; //nonatomic (no mutex lock, not threadsafe by faster than atomic)
 // assign, retain, copy 
+
+@property (nonatomic, retain) NSURL * url;
 
 @end

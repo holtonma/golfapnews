@@ -6,7 +6,6 @@
 		activeTarget = 9ACB8B840F51EAD900CCE9F4 /* test */;
 		addToTargets = (
 			9ACB8B840F51EAD900CCE9F4 /* test */,
-			8DD76F960486AA7600D96B5E /* GolfapNews */,
 		);
 		breakpoints = (
 			9AEC8E650F51F093006BE622 /* SyntaxTest.h:12 */,
@@ -153,9 +152,32 @@
 	};
 	9A2984400F51F6B6005A9F1E /* GolfapProductTest.m */ = {
 		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 742}}";
+			sepNavSelRange = "{867, 0}";
+			sepNavVisRange = "{336, 506}";
+			sepNavWindowFrame = "{{-546, 1817}, {765, 657}}";
+		};
+	};
+	9A2984430F51F762005A9F1E /* GAProduct.h */ = {
+		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
-			sepNavSelRange = "{192, 0}";
-			sepNavVisRange = "{0, 324}";
+			sepNavSelRange = "{483, 0}";
+			sepNavVisRange = "{0, 490}";
+			sepNavWindowFrame = "{{-569, 1838}, {765, 657}}";
+		};
+	};
+	9A2984440F51F762005A9F1E /* GAProduct.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
+			sepNavSelRange = "{515, 0}";
+			sepNavVisRange = "{0, 549}";
+		};
+	};
+	9A2984800F520274005A9F1E /* GAProductList.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 809}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 221}";
 		};
 	};
 	9ACB8B710F51EAB400CCE9F4 /* GolfapNews */ = {

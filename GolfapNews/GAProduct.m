@@ -11,13 +11,15 @@
 
 @implementation GAProduct
 
-@synthesize title;
+@synthesize title, url;
+
 
 - (id) initWithDictionary:(NSDictionary *) theDictionary
 {
   if (self = [super init]) {
     self.title = [theDictionary objectForKey:@"title"];
     //return nil;  //super init -- returns parent of init, which is NSObject
+    self.url = [NSURL URLWithString:[theDictionary objectForKey:@"url"]];
   }
     
   return self;
