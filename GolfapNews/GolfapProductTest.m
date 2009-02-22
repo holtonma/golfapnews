@@ -34,6 +34,11 @@
   STAssertEqualObjects(product.className, @"GAProduct", nil);
 }
 
+- (void) testAttributes
+{
+  STAssertEqualObjects(product.title, @"Haml and Sass", nil);
+}
+
 - (void) tearDown
 {
   [product release];

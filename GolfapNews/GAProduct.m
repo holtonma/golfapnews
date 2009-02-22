@@ -11,4 +11,17 @@
 
 @implementation GAProduct
 
+@synthesize title;
+
+- (id) initWithDictionary:(NSDictionary *) theDictionary
+{
+  if (self = [super init]) {
+    self.title = [theDictionary objectForKey:@"title"];
+    //return nil;  //super init -- returns parent of init, which is NSObject
+  }
+    
+  return self;
+}
+
+
 @end

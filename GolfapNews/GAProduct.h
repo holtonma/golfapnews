@@ -10,7 +10,12 @@
 
 
 @interface GAProduct : NSObject {
-
+  NSString * title;
 }
+
+- (id) initWithDictionary:(NSDictionary *) theDictionary;
+
+@property (nonatomic, retain) NSString * title; //nonatomic (no mutex lock, not threadsafe by faster than atomic)
+// assign, retain, copy 
 
 @end

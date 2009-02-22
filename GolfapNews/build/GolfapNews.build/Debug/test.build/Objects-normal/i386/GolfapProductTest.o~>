@@ -1,0 +1,2 @@
+/Users/holtonma/git/GolfapNews/GolfapNews/GolfapProductTest.m: In function '-[GAProductTest testAttributes]':
+/Users/holtonma/git/GolfapNews/GolfapNews/GolfapProductTest.m:39: error: request for member 'title' in something not a structure or union
